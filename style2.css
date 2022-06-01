@@ -1,3 +1,9 @@
 body {
-    background-color: black;
+    background-color: #ccc5b9;
+}
+.section {
+    height: 605px;
+}
+.card {
+    background-color: #fffcf2;
 }
